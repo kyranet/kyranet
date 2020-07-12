@@ -16,6 +16,7 @@ contact with me then you can best do so by joining [my Discord server] or
 
 [Discord]:           https://discord.com
 [Dirigeants]:        https://github.com/dirigeants
+[Veza]:              https://github.com/kyranet/veza
 [Skyra Project]:     https://github.com/skyra-project
 [Skyra]:             https://github.com/skyra-project/skyra
 [Twitter]:           https://twitter.com
