@@ -14,11 +14,27 @@ I'm mostly active on [Discord] and [Twitter], so if you ever want to get in
 contact with me then you can best do so by joining [my Discord server] or
 [tweeting at me].
 
-[Discord]:           https://discord.com
-[Dirigeants]:        https://github.com/dirigeants
-[Veza]:              https://github.com/kyranet/veza
-[Skyra Project]:     https://github.com/skyra-project
-[Skyra]:             https://github.com/skyra-project/skyra
-[Twitter]:           https://twitter.com
-[my Discord server]: https://join.skyra.pw
-[tweeting at me]:    https://twitter.com/kyranet_
+#### Some stats!
+
+<table>
+  <tr>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/?username=kyranet&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyranet&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic" />
+    </td>
+  </tr>
+</table>
+
+> Provided by [`GitHub Readme Stats`]
+
+[Discord]:               https://discord.com
+[Dirigeants]:            https://github.com/dirigeants
+[Veza]:                  https://github.com/kyranet/veza
+[Skyra Project]:         https://github.com/skyra-project
+[Skyra]:                 https://github.com/skyra-project/skyra
+[Twitter]:               https://twitter.com
+[my Discord server]:     https://join.skyra.pw
+[tweeting at me]:        https://twitter.com/kyranet_
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
