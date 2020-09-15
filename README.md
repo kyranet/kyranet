@@ -1,4 +1,6 @@
-Hello there <!-- General Kenobi! --> 👋
+## Hello there <!-- General Kenobi! --> 👋
+
+<img src="https://komarev.com/ghpvc/?username=kyranet" alt="kyranet" />
 
 My name is Antonio Román, I am from Málaga (Spain), and I am an enthusiast
 videogame development student focused in programming and level design at
@@ -14,7 +16,7 @@ I'm mostly active on [Discord] and [Twitter], so if you ever want to get in
 contact with me then you can best do so by joining [my Discord server] or
 [tweeting at me].
 
-#### Some stats! <img src="https://komarev.com/ghpvc/?username=kyranet" alt="kyranet" />
+#### Some stats!
 
 <table>
   <tr>
