@@ -14,7 +14,7 @@ I'm mostly active on [Discord] and [Twitter], so if you ever want to get in
 contact with me then you can best do so by joining [my Discord server] or
 [tweeting at me].
 
-#### Some stats!
+#### Some stats! <img src="https://komarev.com/ghpvc/?username=kyranet" alt="kyranet" />
 
 <table>
   <tr>
