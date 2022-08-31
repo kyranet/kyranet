@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=kyranet" alt="kyranet" />
 
-My name is Antonio Román, I am from Málaga (Spain), and I am an enthusiast
+My name is Aura Román, I am from Málaga (Spain), and I am an enthusiast
 videogame development student focused in programming and level design at
 Complutense University of Madrid.
 
