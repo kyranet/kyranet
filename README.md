@@ -2,19 +2,41 @@
 
 <img src="https://komarev.com/ghpvc/?username=kyranet" alt="kyranet" />
 
-My name is Aura Román, I am from Málaga (Spain), and I am an enthusiast
-videogame development student focused in programming and level design at
-Complutense University of Madrid.
+### About Me
 
-You may know me in real life, but you also may know me for projects such as the
-[Discord] bot [Skyra] which I have been working on since November 2016,
-as well as for my work at the [Dirigeants] and [Skyra Project] organizations
-as a core developer. Maybe you have heard of me from [Veza], an IPC/TCP
-communication system protocol I made to make cross-process messaging easier.
+💼 **Current Role:** Systems Administrator  
+🎓 **Education:** Graduated from the Universidad Complutense de Madrid (UCM)
+with a degree in Videogame Development  
+💡 **Interests**: Programming, learning, art, videogames, D&D  
+🌱 **Currently Learning**: PHP 🐘, Laravel, Puppeteer  
+⚡ **Fun Fact**: I completed the game "Indiana Jones (LEGO)" on my PSP a total of
+13 times, with 100% progress  
 
-I'm mostly active on [Discord] and [Twitter], so if you ever want to get in
-contact with me then you can best do so by joining [my Discord server] or
-[tweeting at me].
+### 🔧 Skills & Tools
+
+- **Languages:** TypeScript, Rust, C#, C++
+- **Frameworks & Libraries:** discord.js, Vue, Nuxt
+- **Tools:** Git, Docker, Volta, Yarn
+
+### 🌐 Featured Projects
+
+- **[discord.js](https://github.com/discordjs/discord.js):** a JavaScript
+wrapper library to interact with Discord's API.
+- **[Sapphire](https://github.com/sapphiredev):** the official unofficial
+framework for the former, and a collection of high quality libraries.
+- **[Skyra Project](https://github.com/skyra-project):** a collection of Discord
+applications and libraries.
+- **[Drakhtar](https://github.com/kyranet/drakhtar):** a 2D videogame written in
+C++ with SDL2.
+- **[Mood](https://github.com/NoVariableGlobal/mood):** a 3D videogame written
+in C++ and GLSL with Ogre3D.
+
+### 💬 Links
+
+- **Website:** https://kyra.dev
+- **Bluesky:** https://bsky.app/profile/kyra.dev
+- **Discord:** `@kyranet` (join [Skyra Lounge][] if you do not share a server
+with me so you can write a DM).
 
 #### Some stats!
 
@@ -31,12 +53,5 @@ contact with me then you can best do so by joining [my Discord server] or
 
 > Provided by [`GitHub Readme Stats`]
 
-[Discord]:               https://discord.com
-[Dirigeants]:            https://github.com/dirigeants
-[Veza]:                  https://github.com/kyranet/veza
-[Skyra Project]:         https://github.com/skyra-project
-[Skyra]:                 https://github.com/skyra-project/skyra
-[Twitter]:               https://twitter.com
-[my Discord server]:     https://join.skyra.pw
-[tweeting at me]:        https://twitter.com/kyranet_
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+[Skyra Lounge]: https://join.skyra.pw
